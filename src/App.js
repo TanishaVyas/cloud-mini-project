@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app-container">
         <div className="jenkins-text">
-      Cloud Mini Project
+      Cloud Theory Mini Project
       </div>
       <div className="jenkins-text">
       Jenkins & GitHub Integration for CI/CD Pipelines
